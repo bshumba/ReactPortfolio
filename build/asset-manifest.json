@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e080c5a.chunk.css",
+    "main.js": "/static/js/main.440b7bf6.chunk.js",
+    "main.js.map": "/static/js/main.440b7bf6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b89de3f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b89de3f.js.map",
+    "static/js/2.dce37f54.chunk.js": "/static/js/2.dce37f54.chunk.js",
+    "static/js/2.dce37f54.chunk.js.map": "/static/js/2.dce37f54.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8e080c5a.chunk.css.map": "/static/css/main.8e080c5a.chunk.css.map",
+    "static/js/2.dce37f54.chunk.js.LICENSE.txt": "/static/js/2.dce37f54.chunk.js.LICENSE.txt",
+    "static/media/School-Management.15c68e16.png": "/static/media/School-Management.15c68e16.png",
+    "static/media/cv.914add65.pdf": "/static/media/cv.914add65.pdf",
+    "static/media/developer.7a34f1de.png": "/static/media/developer.7a34f1de.png",
+    "static/media/folio.13b79084.jpg": "/static/media/folio.13b79084.jpg",
+    "static/media/fullstack.c2d47c6f.png": "/static/media/fullstack.c2d47c6f.png",
+    "static/media/java3.72f46ec9.jpeg": "/static/media/java3.72f46ec9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b89de3f.js",
+    "static/js/2.dce37f54.chunk.js",
+    "static/css/main.8e080c5a.chunk.css",
+    "static/js/main.440b7bf6.chunk.js"
+  ]
+}
